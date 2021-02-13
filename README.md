@@ -2,6 +2,11 @@
 
 This repo contains various Data Analytics and Machine Learning Projects exploring a range of topics in the field. 
 
+## Classification
+Binary classification task: Depression and Anxiety Prediction. Uses [data](https://www.kaggle.com/michaelacorley/unemployment-and-mental-illness-survey) from a research survey carried out by Michael Corley. 
+
+[Depression Anxiety Prediction](https://nbviewer.jupyter.org/github/lauramurphy12/MachineLearningProjects/blob/main/Classification/DepressionAnxietyPrediction.ipynb)
+
 ## Natural Language Processing
 
 Initial exploration of NLP techniques and Topic Modeling using Latent Dirichlet Allocation on the 2020 Democratic Debates.
